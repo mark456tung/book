@@ -1,3 +1,4 @@
+# books'
 * type(x)
 get x's type
 * int(x)
@@ -40,3 +41,9 @@ put x in mid of 30 space
 * x.replace(original, result, times)
 change original in to result 
 change on lettert need to join a space such as "a "
+
+# additional
+* .format way
+    * https://pyformat.info/
+* strftime
+    * https://strftime.org/
